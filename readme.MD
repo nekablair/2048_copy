@@ -1,6 +1,6 @@
 # 2048
 
-[2048](./2048.gif)
+![2048](./2048.gif)
 
 Games are an easy and fun of way of learning any programming language or tool. 
 
