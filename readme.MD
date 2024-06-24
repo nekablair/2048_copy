@@ -1,36 +1,10 @@
-<p align="center">
-  <img src="https://github.com/chandradeoarya/2048/blob/master/2048.gif?raw=true" />
-</p>
+# 2048
 
-Games are easy and fun of learning any programming language or tools. 2048 game is one the most popular and easy to play game. This implementation of 2048 game can be deployed using multiple ways like bare metal, elastic beanstalk as PHP or docker using apache.
-<br>
-If you appreciate this game and content 📖, support projects visibility, give 👍| ⭐| 👏
+[2048](./2048.gif)
 
+Games are an easy and fun of way of learning any programming language or tool. 
 
-# Tools used <!-- omit in toc -->
-
-<!-- TOC -->
-
-- bare metal server
-- elastic beanstalk
-- docker
-
-<!-- /TOC -->
-
-
-# Deployment guide
-
-#### How to deploy on elastic beanstalk
-
-```
-<won't reveal😀>
-```
-
-#### How to deploy on docker
-
-```
-<won't reveal😀>
-```
+This implementation of 2048 game can be deployed using multiple ways like bare metal, elastic beanstalk as PHP or docker using apache.
 
 ## Customization
 
